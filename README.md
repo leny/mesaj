@@ -16,17 +16,21 @@ To use **mesaj**, you must at first install it globally.
 
 ### Usage
 
-Using **mesaj** is simple:
+	mesaj [options]
 
-*TODO*
+If no option is given, the target contact and message will be prompted.
+
+#### Options
+* `-V, --version`            output the version number
+* `-c, --contact <contact>`  target contact to send message
+* `-m, --message <message>`  message to send
+* `-s, --service`            choose the account in charge of sending the message
+* `-r, --refresh`            refresh cache info for contacts
+* `-h, --help`               output usage information
 
 ## Contributing
 
 In lieu of a formal styleguide, take care to maintain the existing coding style.
-
-## Release History
-
-*TODO*
 
 ## License
 Copyright ©2018 Leny  
