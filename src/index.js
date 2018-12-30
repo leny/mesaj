@@ -56,7 +56,7 @@ commander.action(async ({service, contact, message, refresh}) => {
         console.log(
             "🎉",
             chalk.green("Success:"),
-            "Your message as been sent.",
+            "Your message has been sent.",
         );
     } catch (err) {
         console.log(
