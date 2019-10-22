@@ -1,6 +1,6 @@
 # mesaj
 
-[![NPM version](http://img.shields.io/npm/v/mesaj.svg)](https://www.npmjs.org/package/mesaj) ![Downloads counter](http://img.shields.io/npm/dm/mesaj.svg)
+[![NPM version](http://img.shields.io/npm/v/mesaj.svg)](https://www.npmjs.org/package/mesaj) ![Downloads counter](http://img.shields.io/npm/dm/mesaj.svg) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 > A simple commandline wrapper over Apple's Message app.
 
